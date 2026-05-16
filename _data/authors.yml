@@ -1,18 +1,11 @@
-# Authors
+# ==================================================
+# OIer 博客作者配置
+# ==================================================
 
-Name Name:
-  name        : "Name Name"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+cn-ywcw:
+  name        : "cn-ywcw"
+  uri         : "https://cn-ywcw.github.io"   # 替换成你的网站地址
+  email       : "ywcw3095@qq.com"            # 可选，不想留可以删掉这行
+  bio         : "算法竞赛爱好者 | ICPC/CCPC 选手 | 记录题解、笔记与日常"
+  avatar      : "https://avatars.githubusercontent.com/u/146902381?v=4&size=64"          # 你的头像路径，可以换成自己的图片
+  github      : "cn-ywcw"
